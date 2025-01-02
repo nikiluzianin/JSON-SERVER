@@ -1,102 +1,121 @@
 {
-  "transactions": [
+  "personsData": [
     {
-      "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "name": "John Smith",
+      "role": "Software Engineer",
+      "department": "Engineering",
+      "location": "New York 2",
+      "startDate": "2019-08-01",
+      "id": "0",
+      "salary": 5500
     },
     {
-      "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "name": "Jane Doe",
+      "role": "Product Manager",
+      "department": "Engineering",
+      "location": "San Francisco",
+      "startDate": "2020-03-01",
+      "id": "1",
+      "salary": 6200
     },
     {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "2",
+      "name": "Michael Johnson",
+      "role": "Data Scientist",
+      "department": "Engineering",
+      "startDate": "2014-11-01",
+      "location": "Chicago",
+      "salary": 6700
     },
     {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "id": "3",
+      "name": "Emily Davis",
+      "role": "UX/UI Designer",
+      "department": "Design",
+      "startDate": "2017-02-01",
+      "location": "Los Angeles",
+      "salary": 5000
     },
     {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "id": "4",
+      "name": "David Brown",
+      "role": "Marketing Specialist",
+      "department": "Design",
+      "startDate": "2021-06-01",
+      "location": "New York",
+      "salary": 4800
     },
     {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "id": "5",
+      "name": "Sarah Wilson",
+      "role": "HR Manager",
+      "department": "Design",
+      "startDate": "2009-11-01",
+      "location": "San Francisco",
+      "salary": 6500
     },
     {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "id": "6",
+      "name": "James Taylor",
+      "role": "DevOps Engineer",
+      "department": "Operations",
+      "startDate": "2011-09-01",
+      "location": "Chicago",
+      "salary": 6300
     },
     {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "id": "7",
+      "name": "Olivia Martinez",
+      "role": "Sales Associate",
+      "department": "Operations",
+      "startDate": "2024-07-01",
+      "location": "Los Angeles",
+      "salary": 3000
     },
     {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "8",
+      "name": "Christopher Lee",
+      "role": "Business Analyst",
+      "department": "Operations",
+      "startDate": "2016-05-01",
+      "location": "New York",
+      "salary": 5500
     },
     {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
+      "id": "9",
+      "name": "Sophia Gonzalez",
+      "role": "Customer Support Representative",
+      "department": "Operations",
+      "startDate": "2022-10-01",
+      "location": "San Francisco",
+      "salary": 3500
     },
     {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
+      "name": "Margit",
+      "role": "Teacher",
+      "department": "BCH",
+      "location": "Helsinki",
+      "startDate": "2024-11-27T11:40:31.617Z",
+      "id": "5cc5",
+      "salary": 4000
     },
     {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
+      "id": "062c",
+      "name": "adsdsa",
+      "role": "adsads",
+      "department": "adsasd",
+      "startDate": "2024-12-11T11:03:39.279Z",
+      "location": "asdadsdas",
+      "salary": 2500
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
-    },
-    {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "id": "182c",
+      "name": "newbie",
+      "role": "asd",
+      "department": "dasd",
+      "startDate": "2025-01-02T14:34:11.520Z",
+      "location": "asdasd",
+      "salary": ""
     }
   ]
 }
